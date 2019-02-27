@@ -1,1 +1,1 @@
-# 22 - JS essentials lecture
+# 32-js-start-practice
