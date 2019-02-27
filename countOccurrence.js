@@ -1,0 +1,3 @@
+function countOccurrence(str, letter) {
+
+}

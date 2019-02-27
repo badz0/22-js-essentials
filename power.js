@@ -1,3 +1,2 @@
-function uppercase(n) {
-  n + n
+function power(n, exponent) {
 }

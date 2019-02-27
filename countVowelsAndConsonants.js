@@ -1,0 +1,3 @@
+function countVowelsAndConsonants(str) {
+
+}
